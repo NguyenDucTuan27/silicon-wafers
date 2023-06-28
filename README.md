@@ -1,3 +1,3 @@
 # silicon-wafers
  
-this code was createde in 2021
+this code was created in 2021
