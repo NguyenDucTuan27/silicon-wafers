@@ -1,6 +1,8 @@
 # silicon-wafers
  
-This code was created in 2021 for the "Design and Analyze Algorithms Course"
+This code was created in 2021 for the "Design and Analyze Algorithms Course".
+
+The problem is silicon Wafers.
 
 TIME COMPLEXITY:
  
